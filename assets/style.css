@@ -6,9 +6,9 @@ body {
     background-repeat: no-repeat;
 }
 
-@media(max-width: 911px){
+@media (max-width: 991px){
     .sidebar{
-        background-color: red;
+        background-color: rgba(255, 255, 255, 0.15);
         backdrop-filter: blur (10px);
     }
 }
