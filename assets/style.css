@@ -3,5 +3,12 @@ body {
     background-blend-mode: multiply;
     background-position: center;
     background-size: no-repeat;
+    background-repeat: no-repeat;
 }
 
+@media(max-width: 911px){
+    .sidebar{
+        background-color: red;
+        backdrop-filter: blur (10px);
+    }
+}
