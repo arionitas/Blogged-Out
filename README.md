@@ -1,2 +1,2 @@
-# bootstrap-portfolio
-Building my portfolio layout using the Bootstrap CSS Framework.
+# blogged-out
+Building a blog page for my friend Tomas-Spisak
