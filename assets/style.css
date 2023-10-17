@@ -6,13 +6,13 @@
 }
 
 .section-header h2 {
-    color: #08194a;
+    color: #bacbff;
     font-size: 45px;
     font-weight: 700;
 }
 
 .section-header h2 span {
-    color: #e53f29;
+    color: #ff00ea;
 }
 
 /* navbar */
@@ -119,3 +119,12 @@
     background-color: #000000;
     color: #fff;
 }
+
+/* SERVICES */
+
+.section-header {
+    background-color: #000000;
+    color: #fff;
+    padding: 30px 15px;
+}
+
