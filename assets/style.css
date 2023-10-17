@@ -15,6 +15,8 @@
     color: #e53f29;
 }
 
+/* navbar */
+
 .navbar-nav a {
     font-size: 16px;
     font-weight: 700;
@@ -46,6 +48,8 @@
     line-height: 0.3;
     background: #fff;
 }
+
+/* Carousel's */
 
 .carousel {
     background-image: url(./images/BLOGGED\ DOWN.png);
@@ -95,3 +99,23 @@
     border-radius: 5px;
 }
 
+/* about */
+
+.img-area img {
+    width: 100% !important;
+}
+
+.about-text h2 {
+    font-size: 45px;
+    font-weight: 700;
+    color: #ff00d4;
+}
+
+.about-text h2 span {
+    color: rgb(255, 0, 157);
+}
+
+.about-text .btn {
+    background-color: #000000;
+    color: #fff;
+}
